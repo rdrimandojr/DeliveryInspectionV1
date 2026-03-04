@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upon checking the \'Reject\' checkbox, you as the seed inspector acknowledges that the selected seedtag (200 bags) will not be accepted and received on any other delivery.\n\n
+However, if  partial rejection is needed, you can still accept the specified volume of seeds in the seedlot - for example 150 out of 200 bags were still accepted from the delivery and remarks should be provided why some of the bags have been rejected."
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_dismiss"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="14sp"
+        android:text="DISMISS"
+        android:textColor="@color/prri_orange"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

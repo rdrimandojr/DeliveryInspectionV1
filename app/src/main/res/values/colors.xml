@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#008577</color>--><!--old-->
+    <color name="colorPrimary">@color/da_green</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <!--<color name="colorAccent">#D81B60</color>--><!--old-->
+    <color name="colorAccent">@color/da_green</color>
+    <color name="blue">#0000FF</color>
+    <color name="black">#000000</color>
+    <color name="black25">#40000000</color>
+    <color name="black60">#99000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="da_green">#065D39</color>
+    <color name="da_light_yellow">#EDDFA3</color>
+    <color name="da_yellow">#F9B501</color>
+    <color name="da_font_color">#A4721E</color>
+    <color name="noBackground">#00FFFFFF</color>
+    <color name="prri_darkblue">#3F5F76</color>
+    <color name="prri_red">#AF6049</color>
+    <color name="prri_orange">#BC7A34</color>
+    <color name="prri_yellow">#FDBF68</color>
+    <color name="prri_green">#0B9444</color>
+    <color name="rejected">#800000</color>
+    <color name="passed">#008000</color>
+    <color name="pending">#696969</color>
+
+</resources>

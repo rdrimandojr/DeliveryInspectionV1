@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/activity_inspection_actual_delivery.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/drawable-v24/custom_btn3.xml" value="0.275" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/activity_delivery_batch_main.xml" value="0.2" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/activity_delivery_main.xml" value="0.2" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/activity_image_capture.xml" value="0.259375" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/activity_inspection_actual_delivery.xml" value="0.2" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/activity_inspection_main.xml" value="0.259375" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/activity_inspection_new_sampling.xml" value="0.264" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/activity_inspection_result.xml" value="0.259375" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/activity_verify_login.xml" value="0.259375" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/custom_idview_dialog.xml" value="0.2453125" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/custom_reject_rule_dialog.xml" value="0.15053763440860216" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/rv_actualdelivery_layout.xml" value="0.259375" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection/app/src/main/res/layout/rv_inspectionsiview_layout.xml" value="0.259375" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection_v2.1/app/src/main/res/layout/activity_inspection_actual_delivery.xml" value="0.3875" />
+        <entry key="..\:/Users/Roni/Documents/AndroidStudioProjects/RCEPDeliveryInspection_v2.1/app/src/main/res/layout/activity_inspection_main.xml" value="0.3875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
